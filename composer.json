@@ -1,0 +1,14 @@
+{
+    "name": "achyut/litecms",
+    "description": "A small php cms.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gitachyut",
+            "email": "linkinakd72@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
