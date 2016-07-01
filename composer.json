@@ -9,6 +9,11 @@
             "email": "linkinakd72@gmail.com"
         }
     ],
+    "autoload":{
+      "psr-4":{
+        "litecms\\":"src"
+      }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
